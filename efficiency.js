@@ -8,7 +8,11 @@ function sumIntegers(n) {
 
 
 const NUMBER_OF_REPETITIONS = 10; // Number of times to repeat the test
+<<<<<<< HEAD
 const N = 100000;
+=======
+const N = 100;
+>>>>>>> origin/main
 
 let sumOfRunningTime = 0n;
 
